@@ -1,0 +1,7 @@
+.router-link-item {
+  padding: 10px;
+}
+
+.router-link-item:hover {
+  background-color: rgb(71, 67, 67);
+}
